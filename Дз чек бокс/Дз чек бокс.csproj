@@ -86,7 +86,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="getero.jpg" />
+    <Resource Include="images\getero.jpg" />
+    <Resource Include="images\LGBT.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
